@@ -319,37 +319,37 @@ class KurdishCupertinoLocalizations extends GlobalCupertinoLocalizations {
       KurdishCupertinoLocalizationsDelegate();
 
   @override
-  String get datePickerDateOrderString => throw UnimplementedError();
+  String get datePickerDateOrderString => "";
 
   @override
-  String get datePickerDateTimeOrderString => throw UnimplementedError();
+  String get datePickerDateTimeOrderString => "";
 
   @override
-  String? get datePickerHourSemanticsLabelOther => throw UnimplementedError();
+  String? get datePickerHourSemanticsLabelOther => "";
 
   @override
-  String? get datePickerMinuteSemanticsLabelOther => throw UnimplementedError();
+  String? get datePickerMinuteSemanticsLabelOther => "";
 
   @override
-  String get searchTextFieldPlaceholderLabel => throw UnimplementedError();
+  String get searchTextFieldPlaceholderLabel => "";
 
   @override
-  String get tabSemanticsLabelRaw => throw UnimplementedError();
+  String get tabSemanticsLabelRaw => "";
 
   @override
-  String? get timerPickerHourLabelOther => throw UnimplementedError();
+  String? get timerPickerHourLabelOther => "";
 
   @override
-  String? get timerPickerMinuteLabelOther => throw UnimplementedError();
+  String? get timerPickerMinuteLabelOther => "";
 
   @override
-  String? get timerPickerSecondLabelOther => throw UnimplementedError();
+  String? get timerPickerSecondLabelOther => "";
 
   @override
-  String get todayLabel => throw UnimplementedError();
+  String get todayLabel => "";
 
   @override
-  String get noSpellCheckReplacementsLabel => throw UnimplementedError();
+  String get noSpellCheckReplacementsLabel => "";
 
   @override
   String get lookUpButtonLabel => '';

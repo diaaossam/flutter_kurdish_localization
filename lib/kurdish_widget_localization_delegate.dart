@@ -4,8 +4,7 @@ import 'package:flutter/widgets.dart';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
-class _KurdishMaterialLocalizationsDelegate
-    extends LocalizationsDelegate<WidgetsLocalizations> {
+class _KurdishMaterialLocalizationsDelegate extends LocalizationsDelegate<WidgetsLocalizations> {
   const _KurdishMaterialLocalizationsDelegate();
 
   @override
@@ -31,20 +30,20 @@ class KurdishWidgetLocalizations extends WidgetsLocalizations {
 
   @override
   
-  String get reorderItemDown => throw UnimplementedError();
+  String get reorderItemDown => "";
 
   @override
-  String get reorderItemLeft => throw UnimplementedError();
+  String get reorderItemLeft => "";
 
   @override
-  String get reorderItemRight => throw UnimplementedError();
+  String get reorderItemRight => "";
 
   @override
-  String get reorderItemToEnd => throw UnimplementedError();
+  String get reorderItemToEnd => "";
 
   @override
-  String get reorderItemToStart => throw UnimplementedError();
+  String get reorderItemToStart => "";
 
   @override
-  String get reorderItemUp => throw UnimplementedError();
+  String get reorderItemUp => "";
 }
