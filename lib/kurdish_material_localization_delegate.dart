@@ -568,11 +568,11 @@ class KurdishMaterialLocalizations extends GlobalMaterialLocalizations {
 
   @override
   // TODO: implement clearButtonTooltip
-  String get clearButtonTooltip => throw UnimplementedError();
+  String get clearButtonTooltip => "";
 
   @override
   // TODO: implement selectedDateLabel
-  String get selectedDateLabel => throw UnimplementedError();
+  String get selectedDateLabel => "";
 
 
     
